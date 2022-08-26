@@ -9,7 +9,7 @@ setup(
     author="Titicaca",
     author_email="lake_titicaca@outlook.com",
     description="PySpark Wrapper for Spark-IForest",
-    long_description=io.open("README.md", encoding="UTF-8").read(),
+    #long_description=io.open("README.md", encoding="UTF-8").read(),
     license="MIT",
     url="https://github.com/titicaca/spark-iforest/python",
     packages=find_packages(),
